@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AnswerLineOne
+  - AnswerLineTwo
+  - AnswerLineThree
+  - BoxLineOne
+  - BoxLineTwo
+  - BoxLineThree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - Player
+  - BigBoss
+  - Modal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2845140561
+    locked: 0
+  - name: Clouds
+    uniqueID: 1524720847
+    locked: 0
+  - name: Mountains
+    uniqueID: 2806070097
+    locked: 0
+  - name: Trees
+    uniqueID: 2026692645
+    locked: 0
+  - name: Blocks
+    uniqueID: 140755241
+    locked: 0
+  - name: ExerciseLabel
+    uniqueID: 1199100421
+    locked: 0
+  - name: Player
+    uniqueID: 1305894009
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2430771407
+    locked: 0
+  - name: Buttons
+    uniqueID: 1884814529
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Modal
+    uniqueID: 4154718267
+    locked: 0
