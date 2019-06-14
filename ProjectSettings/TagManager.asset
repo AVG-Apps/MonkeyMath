@@ -10,6 +10,7 @@ TagManager:
   - BoxLineOne
   - BoxLineTwo
   - BoxLineThree
+  - Bullet
   layers:
   - Default
   - TransparentFX

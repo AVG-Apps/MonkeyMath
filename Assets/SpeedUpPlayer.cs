@@ -19,7 +19,7 @@ namespace monkeyMath
 
             if (other.tag == "Player")
             {
-                playerManager.setSpeedMovement(800f);
+                playerManager.setSpeedMovement(500f);
             }
         }
 

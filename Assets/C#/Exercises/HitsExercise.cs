@@ -36,7 +36,7 @@ namespace monkeyMath
 
                 if (levelManager.totalLives == 0)
                     {
-                        Debug.Log("Game Over");
+                        Debug.Log("GET GOOD SIM");
                         //gameover();
                     }
             }
@@ -48,6 +48,11 @@ namespace monkeyMath
             {
 
                 hitObstacle();
+            }
+
+            if (other.tag == "Bullet")
+            {
+                Destroy(this. gameObject);
             }
         }
 
